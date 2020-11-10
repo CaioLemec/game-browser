@@ -1,0 +1,38 @@
+{
+    "configuracoes": {
+        "vidaMaxima": 5, 
+        "vidaInicial": 3,
+        "gravidade": 4, 
+        "alturaDoPulo": -35,  
+        "frameRate": 50
+    },
+
+    "mapa":  [{
+        "inimigo": 0,
+        "velocidade": 10
+    },
+    {
+        "inimigo": 1,
+        "velocidade": 20
+    },
+    {
+        "inimigo": 2,
+        "velocidade": 30
+    },
+    {
+        "inimigo": 1,
+        "velocidade": 20
+    },
+    {
+        "inimigo": 2,
+        "velocidade": 20
+    },
+    {
+        "inimigo": 0,
+        "velocidade": 25
+    },
+    {
+        "inimigo": 1,
+        "velocidade": 35
+    }
+ ]}
